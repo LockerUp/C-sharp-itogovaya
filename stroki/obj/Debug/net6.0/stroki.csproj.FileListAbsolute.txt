@@ -1,0 +1,15 @@
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\obj\Debug\net6.0\stroki.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\obj\Debug\net6.0\stroki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\obj\Debug\net6.0\stroki.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\obj\Debug\net6.0\stroki.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\obj\Debug\net6.0\stroki.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\bin\Debug\net6.0\stroki.exe
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\bin\Debug\net6.0\stroki.deps.json
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\bin\Debug\net6.0\stroki.runtimeconfig.json
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\bin\Debug\net6.0\stroki.dll
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\bin\Debug\net6.0\stroki.pdb
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\obj\Debug\net6.0\stroki.dll
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\obj\Debug\net6.0\refint\stroki.dll
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\obj\Debug\net6.0\stroki.pdb
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\obj\Debug\net6.0\stroki.genruntimeconfig.cache
+C:\Users\Andrey\Desktop\gb\itogovaya\stroki\obj\Debug\net6.0\ref\stroki.dll
