@@ -8,6 +8,7 @@
 
 System.Console.WriteLine("Укажите желаемую длину массива: ");
 int size = int.Parse(Console.ReadLine());
+
 string[] arr = CreateAndFillArray();
 int newSize = ChoiceSizeNewArray(arr);
 string[] newArr = CreateAndFillNewArray(arr, newSize);
